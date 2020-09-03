@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iostronic/static/css/main.5f361e03.chunk.css",
+    "main.js": "/iostronic/static/js/main.4f5c44fa.chunk.js",
+    "main.js.map": "/iostronic/static/js/main.4f5c44fa.chunk.js.map",
+    "runtime-main.js": "/iostronic/static/js/runtime-main.15159a6a.js",
+    "runtime-main.js.map": "/iostronic/static/js/runtime-main.15159a6a.js.map",
+    "static/js/2.ef510c32.chunk.js": "/iostronic/static/js/2.ef510c32.chunk.js",
+    "static/js/2.ef510c32.chunk.js.map": "/iostronic/static/js/2.ef510c32.chunk.js.map",
+    "index.html": "/iostronic/index.html",
+    "precache-manifest.8315b5a55c2cb68b30fb9087503bd4db.js": "/iostronic/precache-manifest.8315b5a55c2cb68b30fb9087503bd4db.js",
+    "service-worker.js": "/iostronic/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/iostronic/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ef510c32.chunk.js.LICENSE.txt": "/iostronic/static/js/2.ef510c32.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/iostronic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15159a6a.js",
+    "static/js/2.ef510c32.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4f5c44fa.chunk.js"
+  ]
+}
